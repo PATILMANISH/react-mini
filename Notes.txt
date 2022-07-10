@@ -1,0 +1,1 @@
+ Clone the repositary -> git clone --single-branch -b master https://github.com/PATILMANISH/react-mini.git .
